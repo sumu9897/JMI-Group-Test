@@ -1,0 +1,751 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1.70054E+12,543,Home Page,200,OK,JMI Group 1-2,text,TRUE,,118038,121,10,10,http://www.jmigroup-bd.com/,259,0,28
+1.70054E+12,726,Home Page,200,OK,JMI Group 1-1,text,TRUE,,118038,121,11,11,http://www.jmigroup-bd.com/,323,0,50
+1.70054E+12,766,Home Page,200,OK,JMI Group 1-3,text,TRUE,,118038,121,14,14,http://www.jmigroup-bd.com/,354,0,35
+1.70054E+12,364,message_md,200,OK,JMI Group 1-2,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,267,0,0
+1.70054E+12,770,Home Page,200,OK,JMI Group 1-5,text,TRUE,,118038,121,15,15,http://www.jmigroup-bd.com/,309,0,23
+1.70054E+12,879,Home Page,200,OK,JMI Group 1-6,text,TRUE,,118038,121,15,15,http://www.jmigroup-bd.com/,319,0,36
+1.70054E+12,828,Home Page,200,OK,JMI Group 1-7,text,TRUE,,118038,121,15,15,http://www.jmigroup-bd.com/,295,0,24
+1.70054E+12,512,message_md,200,OK,JMI Group 1-1,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,329,0,0
+1.70054E+12,355,message_ch,200,OK,JMI Group 1-2,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,263,0,0
+1.70054E+12,470,message_md,200,OK,JMI Group 1-3,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,312,0,0
+1.70054E+12,346,message_md,200,OK,JMI Group 1-5,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,261,0,0
+1.70054E+12,1207,Home Page,200,OK,JMI Group 1-4,text,TRUE,,118038,121,15,15,http://www.jmigroup-bd.com/,411,0,52
+1.70054E+12,1019,Home Page,200,OK,JMI Group 1-8,text,TRUE,,118038,121,15,15,http://www.jmigroup-bd.com/,432,0,65
+1.70054E+12,343,message_md,200,OK,JMI Group 1-6,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,261,0,0
+1.70054E+12,326,message_md,200,OK,JMI Group 1-7,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,228,0,0
+1.70054E+12,1079,Home Page,200,OK,JMI Group 1-9,text,TRUE,,118038,121,15,15,http://www.jmigroup-bd.com/,479,0,89
+1.70054E+12,405,message_ch,200,OK,JMI Group 1-1,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,300,0,0
+1.70054E+12,429,corporate_profile,200,OK,JMI Group 1-2,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,263,0,0
+1.70054E+12,1184,Home Page,200,OK,JMI Group 1-10,text,TRUE,,118038,121,15,15,http://www.jmigroup-bd.com/,474,0,115
+1.70054E+12,429,message_ch,200,OK,JMI Group 1-6,text,TRUE,,29550,132,15,15,http://www.jmigroup-bd.com/message_ch/,270,0,0
+1.70054E+12,521,message_md,200,OK,JMI Group 1-8,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,300,0,0
+1.70054E+12,341,message_md,200,OK,JMI Group 1-10,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,260,0,0
+1.70054E+12,526,message_md,200,OK,JMI Group 1-9,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,290,0,0
+1.70054E+12,797,message_ch,200,OK,JMI Group 1-5,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,295,0,0
+1.70054E+12,457,our_mission,200,OK,JMI Group 1-2,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,244,0,0
+1.70054E+12,1624,Home Page,200,OK,JMI Group 1-11,text,TRUE,,118038,121,15,15,http://www.jmigroup-bd.com/,971,0,94
+1.70054E+12,1022,message_ch,200,OK,JMI Group 1-3,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,261,0,0
+1.70054E+12,1548,Home Page,200,OK,JMI Group 1-14,text,TRUE,,118038,121,15,15,http://www.jmigroup-bd.com/,870,0,69
+1.70054E+12,1684,Home Page,200,OK,JMI Group 1-12,text,TRUE,,118038,121,15,15,http://www.jmigroup-bd.com/,827,0,63
+1.70054E+12,430,message_ch,200,OK,JMI Group 1-8,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,222,0,0
+1.70054E+12,327,message_ch,200,OK,JMI Group 1-10,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,232,0,0
+1.70054E+12,473,corporate_profile,200,OK,JMI Group 1-6,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,216,0,0
+1.70054E+12,1579,Home Page,200,OK,JMI Group 1-15,text,TRUE,,118038,121,15,15,http://www.jmigroup-bd.com/,834,0,113
+1.70054E+12,379,message_ch,200,OK,JMI Group 1-9,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,267,0,0
+1.70054E+12,321,key_person,200,OK,JMI Group 1-2,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,258,0,0
+1.70054E+12,940,corporate_profile,200,OK,JMI Group 1-1,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,321,0,0
+1.70054E+12,411,corporate_profile,200,OK,JMI Group 1-5,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,254,0,0
+1.70054E+12,324,message_md,200,OK,JMI Group 1-11,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,250,0,0
+1.70054E+12,1818,Home Page,200,OK,JMI Group 1-13,text,TRUE,,118038,121,15,15,http://www.jmigroup-bd.com/,911,0,53
+1.70054E+12,1123,message_ch,200,OK,JMI Group 1-7,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,428,0,0
+1.70054E+12,280,message_md,200,OK,JMI Group 1-14,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,217,0,0
+1.70054E+12,443,corporate_profile,200,OK,JMI Group 1-10,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,248,0,0
+1.70054E+12,500,message_md,200,OK,JMI Group 1-12,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,253,0,0
+1.70054E+12,529,corporate_profile,200,OK,JMI Group 1-9,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,239,0,0
+1.70054E+12,380,message_ch,200,OK,JMI Group 1-14,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,258,0,0
+1.70054E+12,566,message_md,200,OK,JMI Group 1-15,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,284,0,0
+1.70054E+12,535,our_mission,200,OK,JMI Group 1-5,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,255,0,0
+1.70054E+12,526,message_ch,200,OK,JMI Group 1-11,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,321,0,0
+1.70054E+12,478,corporate_profile,200,OK,JMI Group 1-7,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,287,0,0
+1.70054E+12,288,our_mission,200,OK,JMI Group 1-10,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,222,0,0
+1.70054E+12,573,message_md,200,OK,JMI Group 1-13,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,301,0,0
+1.70054E+12,760,our_mission,200,OK,JMI Group 1-6,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,267,0,0
+1.70054E+12,361,message_ch,200,OK,JMI Group 1-12,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,226,0,0
+1.70054E+12,775,news_event,200,OK,JMI Group 1-2,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,275,0,0
+1.70054E+12,755,our_mission,200,OK,JMI Group 1-1,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,312,0,0
+1.70054E+12,295,our_mission,200,OK,JMI Group 1-9,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,208,0,0
+1.70054E+12,403,corporate_profile,200,OK,JMI Group 1-14,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,251,0,0
+1.70054E+12,415,message_ch,200,OK,JMI Group 1-15,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,252,0,0
+1.70054E+12,1093,corporate_profile,200,OK,JMI Group 1-8,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,302,0,0
+1.70054E+12,366,key_person,200,OK,JMI Group 1-10,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,269,0,0
+1.70054E+12,430,key_person,200,OK,JMI Group 1-5,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,233,0,0
+1.70054E+12,438,our_mission,200,OK,JMI Group 1-7,text,TRUE,,29185,133,15,15,http://www.jmigroup-bd.com/our_mission/,261,0,0
+1.70054E+12,1211,corporate_profile,200,OK,JMI Group 1-3,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,221,0,0
+1.70054E+12,419,key_person,200,OK,JMI Group 1-6,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,266,0,0
+1.70054E+12,468,message_ch,200,OK,JMI Group 1-13,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,242,0,0
+1.70054E+12,531,corporate_profile,200,OK,JMI Group 1-11,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,245,0,0
+1.70054E+12,367,video,200,OK,JMI Group 1-2,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,256,0,0
+1.70054E+12,366,key_person,200,OK,JMI Group 1-9,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,303,0,0
+1.70054E+12,329,our_mission,200,OK,JMI Group 1-14,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,266,0,0
+1.70054E+12,555,key_person,200,OK,JMI Group 1-1,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,285,0,0
+1.70054E+12,399,key_person,200,OK,JMI Group 1-7,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,271,0,0
+1.70054E+12,764,corporate_profile,200,OK,JMI Group 1-12,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,242,0,0
+1.70054E+12,451,our_mission,200,OK,JMI Group 1-11,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,293,0,0
+1.70054E+12,529,our_mission,200,OK,JMI Group 1-3,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,270,0,0
+1.70054E+12,603,news_event,200,OK,JMI Group 1-5,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,226,0,0
+1.70054E+12,628,news_event,200,OK,JMI Group 1-10,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,382,0,0
+1.70054E+12,384,key_person,200,OK,JMI Group 1-14,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,287,0,0
+1.70054E+12,625,news_event,200,OK,JMI Group 1-6,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,302,0,0
+1.70054E+12,562,news_event,200,OK,JMI Group 1-9,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,311,0,0
+1.70054E+12,782,our_mission,200,OK,JMI Group 1-8,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,277,0,0
+1.70054E+12,659,photo_gallery,200,OK,JMI Group 1-2,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,325,0,0
+1.70054E+12,384,news_event,200,OK,JMI Group 1-7,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,229,0,0
+1.70054E+12,528,news_event,200,OK,JMI Group 1-1,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,261,0,0
+1.70054E+12,346,video,200,OK,JMI Group 1-5,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,203,0,0
+1.70054E+12,396,key_person,200,OK,JMI Group 1-11,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,297,0,0
+1.70054E+12,395,key_person,200,OK,JMI Group 1-3,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,264,0,0
+1.70054E+12,390,video,200,OK,JMI Group 1-10,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,281,0,0
+1.70054E+12,531,our_mission,200,OK,JMI Group 1-12,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,249,0,0
+1.70054E+12,1099,corporate_profile,200,OK,JMI Group 1-15,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,273,0,0
+1.70054E+12,443,news_event,200,OK,JMI Group 1-14,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,292,0,0
+1.70054E+12,439,video,200,OK,JMI Group 1-6,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,317,0,0
+1.70054E+12,349,video,200,OK,JMI Group 1-7,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,268,0,0
+1.70054E+12,401,tvc_ovc,200,OK,JMI Group 1-2,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,265,0,0
+1.70054E+12,1185,corporate_profile,200,OK,JMI Group 1-13,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,302,0,0
+1.70054E+12,439,video,200,OK,JMI Group 1-1,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,287,0,0
+1.70054E+12,358,news_event,200,OK,JMI Group 1-3,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,219,0,0
+1.70054E+12,704,video,200,OK,JMI Group 1-9,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,257,0,0
+1.70054E+12,696,key_person,200,OK,JMI Group 1-8,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,306,0,0
+1.70054E+12,658,news_event,200,OK,JMI Group 1-11,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,274,0,0
+1.70054E+12,645,photo_gallery,200,OK,JMI Group 1-10,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,337,0,0
+1.70054E+12,576,photo_gallery,200,OK,JMI Group 1-6,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,248,0,0
+1.70054E+12,567,photo_gallery,200,OK,JMI Group 1-7,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,270,0,0
+1.70054E+12,686,video,200,OK,JMI Group 1-14,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,265,0,0
+1.70054E+12,728,our_mission,200,OK,JMI Group 1-15,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,270,0,0
+1.70054E+12,835,key_person,200,OK,JMI Group 1-12,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,252,0,0
+1.70054E+12,601,photo_gallery,200,OK,JMI Group 1-1,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,247,0,0
+1.70054E+12,517,photo_gallery,200,OK,JMI Group 1-9,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,281,0,0
+1.70054E+12,1030,photo_gallery,200,OK,JMI Group 1-5,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,226,0,0
+1.70054E+12,319,tvc_ovc,200,OK,JMI Group 1-10,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,249,0,0
+1.70054E+12,410,video,200,OK,JMI Group 1-11,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,255,0,0
+1.70054E+12,402,tvc_ovc,200,OK,JMI Group 1-6,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,262,0,0
+1.70054E+12,798,video,200,OK,JMI Group 1-3,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,298,0,0
+1.70054E+12,411,tvc_ovc,200,OK,JMI Group 1-7,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,281,0,0
+1.70054E+12,400,photo_gallery,200,OK,JMI Group 1-14,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,224,0,0
+1.70054E+12,1006,Home Page,200,OK,JMI Group 1-2,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,345,0,0
+1.70054E+12,930,our_mission,200,OK,JMI Group 1-13,text,TRUE,,29185,133,15,15,http://www.jmigroup-bd.com/our_mission/,277,0,0
+1.70054E+12,329,tvc_ovc,200,OK,JMI Group 1-9,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,229,0,0
+1.70054E+12,390,tvc_ovc,200,OK,JMI Group 1-1,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,253,0,0
+1.70054E+12,4508,message_md,500,Internal Server Error,JMI Group 1-4,text,FALSE,,629116,132,15,15,http://www.jmigroup-bd.com/message_md/,1340,0,0
+1.70054E+12,399,tvc_ovc,200,OK,JMI Group 1-5,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,213,0,0
+1.70054E+12,679,key_person,200,OK,JMI Group 1-15,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,225,0,0
+1.70054E+12,638,news_event,200,OK,JMI Group 1-12,text,TRUE,,42947,132,15,15,http://www.jmigroup-bd.com/news_event/,281,0,0
+1.70054E+12,490,photo_gallery,200,OK,JMI Group 1-11,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,256,0,0
+1.70054E+12,488,message_md,200,OK,JMI Group 1-2,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,312,0,0
+1.70054E+12,551,photo_gallery,200,OK,JMI Group 1-3,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,256,0,0
+1.70054E+12,528,key_person,200,OK,JMI Group 1-13,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,317,0,0
+1.70054E+12,781,Home Page,200,OK,JMI Group 1-10,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,269,0,0
+1.70054E+12,769,tvc_ovc,200,OK,JMI Group 1-14,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,290,0,0
+1.70054E+12,577,message_ch,200,OK,JMI Group 1-4,text,TRUE,,29551,132,15,15,http://www.jmigroup-bd.com/message_ch/,345,0,43
+1.70054E+12,1565,news_event,200,OK,JMI Group 1-8,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,525,0,0
+1.70054E+12,559,video,200,OK,JMI Group 1-12,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,302,0,0
+1.70054E+12,1051,Home Page,200,OK,JMI Group 1-7,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,359,0,0
+1.70054E+12,510,message_md,200,OK,JMI Group 1-10,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,259,0,0
+1.70054E+12,915,news_event,200,OK,JMI Group 1-15,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,334,0,0
+1.70054E+12,712,message_ch,200,OK,JMI Group 1-2,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,269,0,0
+1.70054E+12,557,corporate_profile,200,OK,JMI Group 1-4,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,297,0,0
+1.70054E+12,488,video,200,OK,JMI Group 1-8,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,254,0,0
+1.70054E+12,1280,Home Page,200,OK,JMI Group 1-9,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,350,0,0
+1.70054E+12,858,news_event,200,OK,JMI Group 1-13,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,245,0,0
+1.70054E+12,369,message_ch,200,OK,JMI Group 1-10,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,252,0,0
+1.70054E+12,598,photo_gallery,200,OK,JMI Group 1-12,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,280,0,0
+1.70054E+12,1546,Home Page,200,OK,JMI Group 1-6,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,358,0,0
+1.70054E+12,476,message_md,200,OK,JMI Group 1-7,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,287,0,0
+1.70054E+12,1022,tvc_ovc,200,OK,JMI Group 1-3,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,450,0,0
+1.70054E+12,788,Home Page,200,OK,JMI Group 1-14,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,319,0,0
+1.70054E+12,384,corporate_profile,200,OK,JMI Group 1-2,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,241,0,0
+1.70054E+12,1400,Home Page,200,OK,JMI Group 1-5,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,315,0,0
+1.70054E+12,1501,Home Page,200,OK,JMI Group 1-1,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,374,0,0
+1.70054E+12,1366,tvc_ovc,200,OK,JMI Group 1-11,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,323,0,0
+1.70054E+12,589,video,200,OK,JMI Group 1-15,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,351,0,0
+1.70054E+12,413,message_md,200,OK,JMI Group 1-9,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,250,0,0
+1.70054E+12,360,video,200,OK,JMI Group 1-13,text,TRUE,,31599,127,15,15,http://www.jmigroup-bd.com/video/,234,0,0
+1.70054E+12,329,message_md,200,OK,JMI Group 1-14,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,249,0,0
+1.70054E+12,495,message_md,200,OK,JMI Group 1-6,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,266,0,0
+1.70054E+12,669,photo_gallery,200,OK,JMI Group 1-8,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,243,0,0
+1.70054E+12,440,our_mission,200,OK,JMI Group 1-2,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,306,0,0
+1.70054E+12,552,message_ch,200,OK,JMI Group 1-7,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,308,0,0
+1.70054E+12,625,corporate_profile,200,OK,JMI Group 1-10,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,279,0,0
+1.70054E+12,567,message_md,200,OK,JMI Group 1-1,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,314,0,0
+1.70054E+12,610,message_md,200,OK,JMI Group 1-5,text,TRUE,,31021,132,15,15,http://www.jmigroup-bd.com/message_md/,286,0,0
+1.70054E+12,435,message_ch,200,OK,JMI Group 1-9,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,285,0,0
+1.70054E+12,390,message_ch,200,OK,JMI Group 1-14,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,307,0,0
+1.70054E+12,828,tvc_ovc,200,OK,JMI Group 1-12,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,258,0,0
+1.70054E+12,540,photo_gallery,200,OK,JMI Group 1-13,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,287,0,0
+1.70054E+12,430,key_person,200,OK,JMI Group 1-2,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,271,0,0
+1.70054E+12,957,Home Page,200,OK,JMI Group 1-3,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,353,0,0
+1.70054E+12,744,photo_gallery,200,OK,JMI Group 1-15,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,285,0,0
+1.70054E+12,530,tvc_ovc,200,OK,JMI Group 1-8,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,309,0,0
+1.70054E+12,1246,our_mission,200,OK,JMI Group 1-4,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,293,0,0
+1.70054E+12,430,message_ch,200,OK,JMI Group 1-1,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,248,0,0
+1.70054E+12,447,message_ch,200,OK,JMI Group 1-5,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,237,0,0
+1.70054E+12,396,corporate_profile,200,OK,JMI Group 1-14,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,256,0,0
+1.70054E+12,613,corporate_profile,200,OK,JMI Group 1-7,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,298,0,0
+1.70054E+12,484,corporate_profile,200,OK,JMI Group 1-9,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,276,0,0
+1.70054E+12,1023,Home Page,200,OK,JMI Group 1-11,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,325,0,0
+1.70054E+12,802,message_ch,200,OK,JMI Group 1-6,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,260,0,0
+1.70054E+12,324,message_md,200,OK,JMI Group 1-3,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,255,0,0
+1.70054E+12,341,news_event,200,OK,JMI Group 1-2,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,250,0,0
+1.70054E+12,402,key_person,200,OK,JMI Group 1-4,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,264,0,0
+1.70054E+12,461,tvc_ovc,200,OK,JMI Group 1-15,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,289,0,0
+1.70054E+12,347,our_mission,200,OK,JMI Group 1-14,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,267,0,0
+1.70054E+12,689,tvc_ovc,200,OK,JMI Group 1-13,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,242,0,0
+1.70054E+12,503,corporate_profile,200,OK,JMI Group 1-1,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,273,0,0
+1.70054E+12,450,our_mission,200,OK,JMI Group 1-9,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,293,0,0
+1.70054E+12,398,message_ch,200,OK,JMI Group 1-3,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,236,0,0
+1.70054E+12,397,video,200,OK,JMI Group 1-2,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,283,0,0
+1.70054E+12,493,message_md,200,OK,JMI Group 1-11,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,287,0,0
+1.70054E+12,317,key_person,200,OK,JMI Group 1-14,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,238,0,0
+1.70054E+12,560,corporate_profile,200,OK,JMI Group 1-6,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,280,0,0
+1.70054E+12,710,corporate_profile,200,OK,JMI Group 1-5,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,221,0,0
+1.70054E+12,1086,Home Page,200,OK,JMI Group 1-12,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,338,0,0
+1.70054E+12,457,news_event,200,OK,JMI Group 1-4,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,247,0,0
+1.70054E+12,900,Home Page,200,OK,JMI Group 1-8,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,321,0,0
+1.70054E+12,1342,our_mission,200,OK,JMI Group 1-10,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,736,0,0
+1.70054E+12,326,key_person,200,OK,JMI Group 1-9,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,248,0,0
+1.70054E+12,381,corporate_profile,200,OK,JMI Group 1-3,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,232,0,0
+1.70054E+12,480,our_mission,200,OK,JMI Group 1-1,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,397,0,0
+1.70054E+12,418,message_ch,200,OK,JMI Group 1-11,text,TRUE,,29550,132,15,15,http://www.jmigroup-bd.com/message_ch/,248,0,0
+1.70054E+12,448,photo_gallery,200,OK,JMI Group 1-2,text,TRUE,,52997,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,271,0,0
+1.70054E+12,997,our_mission,200,OK,JMI Group 1-7,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,307,0,0
+1.70054E+12,383,news_event,200,OK,JMI Group 1-14,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,280,0,0
+1.70054E+12,399,our_mission,200,OK,JMI Group 1-6,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,260,0,0
+1.70054E+12,380,our_mission,200,OK,JMI Group 1-5,text,TRUE,,29185,133,15,15,http://www.jmigroup-bd.com/our_mission/,270,0,0
+1.70054E+12,414,video,200,OK,JMI Group 1-4,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,276,0,0
+1.70054E+12,419,news_event,200,OK,JMI Group 1-9,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,271,0,0
+1.70054E+12,495,message_md,200,OK,JMI Group 1-12,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,300,0,0
+1.70054E+12,522,message_md,200,OK,JMI Group 1-8,text,TRUE,,31021,132,15,15,http://www.jmigroup-bd.com/message_md/,350,0,0
+1.70054E+12,413,key_person,200,OK,JMI Group 1-1,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,306,0,0
+1.70054E+12,427,our_mission,200,OK,JMI Group 1-3,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,263,0,0
+1.70054E+12,374,video,200,OK,JMI Group 1-14,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,306,0,0
+1.70054E+12,454,key_person,200,OK,JMI Group 1-6,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,314,0,0
+1.70054E+12,540,key_person,200,OK,JMI Group 1-7,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,318,0,0
+1.70054E+12,488,key_person,200,OK,JMI Group 1-5,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,267,0,0
+1.70054E+12,309,key_person,200,OK,JMI Group 1-3,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,239,0,0
+1.70054E+12,963,key_person,200,OK,JMI Group 1-10,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,301,0,0
+1.70054E+12,443,news_event,200,OK,JMI Group 1-1,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,276,0,0
+1.70054E+12,551,message_ch,200,OK,JMI Group 1-12,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,273,0,0
+1.70054E+12,528,message_ch,200,OK,JMI Group 1-8,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,419,0,0
+1.70054E+12,585,video,200,OK,JMI Group 1-9,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,334,0,0
+1.70054E+12,446,photo_gallery,200,OK,JMI Group 1-14,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,263,0,0
+1.70054E+12,729,photo_gallery,200,OK,JMI Group 1-4,text,TRUE,,52997,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,262,0,0
+1.70054E+12,948,tvc_ovc,200,OK,JMI Group 1-2,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,412,0,0
+1.70054E+12,480,news_event,200,OK,JMI Group 1-7,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,249,0,0
+1.70054E+12,500,news_event,200,OK,JMI Group 1-6,text,TRUE,,42947,132,15,15,http://www.jmigroup-bd.com/news_event/,310,0,0
+1.70054E+12,512,news_event,200,OK,JMI Group 1-5,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,307,0,0
+1.70054E+12,430,news_event,200,OK,JMI Group 1-3,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,283,0,0
+1.70054E+12,1746,Home Page,200,OK,JMI Group 1-13,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,646,0,0
+1.70054E+12,1124,corporate_profile,200,OK,JMI Group 1-11,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,314,0,0
+1.70054E+12,343,tvc_ovc,200,OK,JMI Group 1-14,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,272,0,0
+1.70054E+12,464,video,200,OK,JMI Group 1-1,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,305,0,0
+1.70054E+12,548,corporate_profile,200,OK,JMI Group 1-8,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,314,0,0
+1.70054E+12,607,corporate_profile,200,OK,JMI Group 1-12,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,291,0,0
+1.70054E+12,410,video,200,OK,JMI Group 1-5,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,252,0,0
+1.70054E+12,470,video,200,OK,JMI Group 1-7,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,255,0,0
+1.70054E+12,429,message_md,200,OK,JMI Group 1-13,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,298,0,0
+1.70054E+12,2221,Home Page,200,OK,JMI Group 1-15,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,708,0,0
+1.70054E+12,506,video,200,OK,JMI Group 1-6,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,260,0,0
+1.70054E+12,814,news_event,200,OK,JMI Group 1-10,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,319,0,0
+1.70054E+12,730,photo_gallery,200,OK,JMI Group 1-9,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,284,0,0
+1.70054E+12,401,photo_gallery,200,OK,JMI Group 1-1,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,242,0,0
+1.70054E+12,357,our_mission,200,OK,JMI Group 1-8,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,257,0,0
+1.70054E+12,397,our_mission,200,OK,JMI Group 1-12,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,257,0,0
+1.70054E+12,861,Home Page,200,OK,JMI Group 1-14,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,323,0,0
+1.70054E+12,1183,video,200,OK,JMI Group 1-3,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,249,0,0
+1.70054E+12,1195,our_mission,200,OK,JMI Group 1-11,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,321,0,0
+1.70054E+12,1449,tvc_ovc,200,OK,JMI Group 1-4,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,288,0,0
+1.70054E+12,929,message_ch,200,OK,JMI Group 1-13,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,727,0,0
+1.70054E+12,1006,photo_gallery,200,OK,JMI Group 1-5,text,TRUE,,52997,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,250,0,0
+1.70054E+12,862,tvc_ovc,200,OK,JMI Group 1-1,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,667,0,0
+1.70054E+12,1149,photo_gallery,200,OK,JMI Group 1-7,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,269,0,0
+1.70054E+12,1087,tvc_ovc,200,OK,JMI Group 1-9,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,758,0,0
+1.70054E+12,1756,Home Page,200,OK,JMI Group 1-2,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,349,0,0
+1.70054E+12,500,corporate_profile,200,OK,JMI Group 1-13,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,244,0,0
+1.70054E+12,365,tvc_ovc,200,OK,JMI Group 1-7,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,251,0,0
+1.70054E+12,511,tvc_ovc,200,OK,JMI Group 1-5,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,281,0,0
+1.70054E+12,327,message_md,200,OK,JMI Group 1-2,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,230,0,0
+1.70054E+12,961,photo_gallery,200,OK,JMI Group 1-3,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,254,0,0
+1.70054E+12,299,our_mission,200,OK,JMI Group 1-13,text,TRUE,,29185,133,15,15,http://www.jmigroup-bd.com/our_mission/,204,0,0
+1.70054E+12,355,key_person,200,OK,JMI Group 1-13,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,238,0,0
+1.70054E+12,2083,message_md,200,OK,JMI Group 1-15,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,769,0,0
+1.70054E+12,412,tvc_ovc,200,OK,JMI Group 1-3,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,239,0,0
+1.70054E+12,1632,message_md,200,OK,JMI Group 1-14,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,461,0,0
+1.70054E+12,1986,key_person,200,OK,JMI Group 1-12,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,721,0,0
+1.70054E+12,2426,video,200,OK,JMI Group 1-10,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,269,0,0
+1.70054E+12,1000,message_ch,200,OK,JMI Group 1-2,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,240,0,0
+1.70054E+12,359,message_ch,200,OK,JMI Group 1-14,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,258,0,0
+1.70054E+12,1222,Home Page,200,OK,JMI Group 1-7,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,285,0,0
+1.70054E+12,458,news_event,200,OK,JMI Group 1-12,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,215,0,0
+1.70054E+12,2700,photo_gallery,200,OK,JMI Group 1-6,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,253,0,0
+1.70054E+12,1380,Home Page,200,OK,JMI Group 1-5,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,343,0,0
+1.70054E+12,1844,Home Page,200,OK,JMI Group 1-9,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,340,0,0
+1.70054E+12,466,corporate_profile,200,OK,JMI Group 1-2,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,222,0,0
+1.70054E+12,542,photo_gallery,200,OK,JMI Group 1-10,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,236,0,0
+1.70054E+12,934,news_event,200,OK,JMI Group 1-13,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,228,0,0
+1.70054E+12,340,message_md,200,OK,JMI Group 1-7,text,TRUE,,31021,132,15,15,http://www.jmigroup-bd.com/message_md/,236,0,0
+1.70054E+12,343,video,200,OK,JMI Group 1-12,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,231,0,0
+1.70054E+12,2069,Home Page,200,OK,JMI Group 1-1,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,350,0,0
+1.70054E+12,2295,key_person,200,OK,JMI Group 1-11,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,730,0,0
+1.70054E+12,310,message_md,200,OK,JMI Group 1-5,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,185,0,0
+1.70054E+12,531,tvc_ovc,200,OK,JMI Group 1-6,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,250,0,0
+1.70054E+12,1164,Home Page,200,OK,JMI Group 1-3,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,393,0,0
+1.70054E+12,763,corporate_profile,200,OK,JMI Group 1-14,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,193,0,0
+1.70054E+12,392,our_mission,200,OK,JMI Group 1-2,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,226,0,0
+1.70054E+12,469,message_md,200,OK,JMI Group 1-9,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,238,0,0
+1.70054E+12,3548,key_person,200,OK,JMI Group 1-8,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,248,0,0
+1.70054E+12,721,video,200,OK,JMI Group 1-13,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,331,0,0
+1.70054E+12,795,message_ch,200,OK,JMI Group 1-5,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,439,0,0
+1.70054E+12,1073,tvc_ovc,200,OK,JMI Group 1-10,text,TRUE,,29529,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,241,0,0
+1.70054E+12,675,message_ch,200,OK,JMI Group 1-9,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,342,0,0
+1.70054E+12,1045,message_md,200,OK,JMI Group 1-1,text,TRUE,,31021,132,15,15,http://www.jmigroup-bd.com/message_md/,331,0,0
+1.70054E+12,3410,Home Page,200,OK,JMI Group 1-4,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,437,0,0
+1.70054E+12,876,key_person,200,OK,JMI Group 1-2,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,257,0,0
+1.70054E+12,954,message_md,200,OK,JMI Group 1-3,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,389,0,0
+1.70054E+12,1305,photo_gallery,200,OK,JMI Group 1-12,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,310,0,0
+1.70054E+12,1323,news_event,200,OK,JMI Group 1-11,text,TRUE,,42947,132,15,15,http://www.jmigroup-bd.com/news_event/,314,0,0
+1.70054E+12,649,photo_gallery,200,OK,JMI Group 1-13,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,226,0,0
+1.70054E+12,1351,message_ch,200,OK,JMI Group 1-7,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,938,0,0
+1.70054E+12,1096,our_mission,200,OK,JMI Group 1-14,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,261,0,0
+1.70054E+12,532,corporate_profile,200,OK,JMI Group 1-5,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,318,0,0
+1.70054E+12,673,corporate_profile,200,OK,JMI Group 1-9,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,272,0,0
+1.70054E+12,677,message_ch,200,OK,JMI Group 1-1,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,302,0,0
+1.70054E+12,502,tvc_ovc,200,OK,JMI Group 1-13,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,381,0,0
+1.70054E+12,666,message_ch,200,OK,JMI Group 1-3,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,213,0,0
+1.70054E+12,715,message_md,200,OK,JMI Group 1-4,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,285,0,0
+1.70054E+12,1214,news_event,200,OK,JMI Group 1-8,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,458,0,0
+1.70054E+12,744,news_event,200,OK,JMI Group 1-2,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,290,0,0
+1.70054E+12,490,our_mission,200,OK,JMI Group 1-5,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,317,0,0
+1.70054E+12,612,corporate_profile,200,OK,JMI Group 1-7,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,394,0,0
+1.70054E+12,297,our_mission,200,OK,JMI Group 1-9,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,248,0,0
+1.70054E+12,355,corporate_profile,200,OK,JMI Group 1-1,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,200,0,0
+1.70054E+12,1884,Home Page,200,OK,JMI Group 1-6,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,349,0,0
+1.70054E+12,857,key_person,200,OK,JMI Group 1-14,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,292,0,0
+1.70054E+12,947,tvc_ovc,200,OK,JMI Group 1-12,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,318,0,0
+1.70054E+12,3387,message_ch,200,OK,JMI Group 1-15,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,3386,0,0
+1.70054E+12,539,our_mission,200,OK,JMI Group 1-1,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,331,0,0
+1.70054E+12,919,corporate_profile,200,OK,JMI Group 1-3,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,254,0,0
+1.70054E+12,849,key_person,200,OK,JMI Group 1-5,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,289,0,0
+1.70054E+12,834,our_mission,200,OK,JMI Group 1-7,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,330,0,0
+1.70054E+12,949,video,200,OK,JMI Group 1-8,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,253,0,0
+1.70054E+12,785,message_md,200,OK,JMI Group 1-6,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,193,0,0
+1.70054E+12,1092,message_ch,200,OK,JMI Group 1-4,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,218,0,0
+1.70054E+12,1135,video,200,OK,JMI Group 1-2,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,269,0,0
+1.70054E+12,1048,key_person,200,OK,JMI Group 1-9,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,330,0,0
+1.70054E+12,860,news_event,200,OK,JMI Group 1-14,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,424,0,0
+1.70054E+12,1253,Home Page,200,OK,JMI Group 1-13,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,328,0,0
+1.70054E+12,1870,video,200,OK,JMI Group 1-11,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,1074,0,0
+1.70054E+12,462,key_person,200,OK,JMI Group 1-7,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,267,0,0
+1.70054E+12,511,our_mission,200,OK,JMI Group 1-3,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,265,0,0
+1.70054E+12,449,message_ch,200,OK,JMI Group 1-6,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,256,0,0
+1.70054E+12,577,news_event,200,OK,JMI Group 1-5,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,283,0,0
+1.70054E+12,2411,Home Page,200,OK,JMI Group 1-10,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,499,0,0
+1.70054E+12,408,message_md,200,OK,JMI Group 1-13,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,271,0,0
+1.70054E+12,587,video,200,OK,JMI Group 1-14,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,277,0,0
+1.70054E+12,671,corporate_profile,200,OK,JMI Group 1-4,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,261,0,0
+1.70054E+12,815,photo_gallery,200,OK,JMI Group 1-8,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,292,0,0
+1.70054E+12,1281,corporate_profile,200,OK,JMI Group 1-15,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,314,0,0
+1.70054E+12,636,news_event,200,OK,JMI Group 1-9,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,296,0,0
+1.70054E+12,643,photo_gallery,200,OK,JMI Group 1-2,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,214,0,0
+1.70054E+12,1487,Home Page,200,OK,JMI Group 1-12,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,289,0,0
+1.70054E+12,389,video,200,OK,JMI Group 1-5,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,258,0,0
+1.70054E+12,507,key_person,200,OK,JMI Group 1-3,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,299,0,0
+1.70054E+12,329,message_ch,200,OK,JMI Group 1-13,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,224,0,0
+1.70054E+12,514,corporate_profile,200,OK,JMI Group 1-6,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,303,0,0
+1.70054E+12,485,message_md,200,OK,JMI Group 1-10,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,271,0,0
+1.70054E+12,350,our_mission,200,OK,JMI Group 1-15,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,255,0,0
+1.70054E+12,814,news_event,200,OK,JMI Group 1-7,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,456,0,0
+1.70054E+12,406,video,200,OK,JMI Group 1-9,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,278,0,0
+1.70054E+12,450,our_mission,200,OK,JMI Group 1-4,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,272,0,0
+1.70054E+12,446,tvc_ovc,200,OK,JMI Group 1-8,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,279,0,0
+1.70054E+12,444,message_md,200,OK,JMI Group 1-12,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,280,0,0
+1.70054E+12,1573,key_person,200,OK,JMI Group 1-1,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,722,0,0
+1.70054E+12,540,photo_gallery,200,OK,JMI Group 1-5,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,358,0,0
+1.70054E+12,463,our_mission,200,OK,JMI Group 1-6,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,323,0,0
+1.70054E+12,529,news_event,200,OK,JMI Group 1-3,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,300,0,0
+1.70054E+12,423,message_ch,200,OK,JMI Group 1-10,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,296,0,0
+1.70054E+12,621,tvc_ovc,200,OK,JMI Group 1-2,text,TRUE,,29529,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,318,0,0
+1.70054E+12,323,key_person,200,OK,JMI Group 1-15,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,278,0,0
+1.70054E+12,559,corporate_profile,200,OK,JMI Group 1-13,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,387,0,0
+1.70054E+12,747,photo_gallery,200,OK,JMI Group 1-14,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,251,0,0
+1.70054E+12,1232,photo_gallery,200,OK,JMI Group 1-11,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,242,0,0
+1.70054E+12,433,video,200,OK,JMI Group 1-7,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,279,0,0
+1.70054E+12,848,key_person,200,OK,JMI Group 1-4,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,273,0,0
+1.70054E+12,916,photo_gallery,200,OK,JMI Group 1-9,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,267,0,0
+1.70054E+12,781,key_person,200,OK,JMI Group 1-6,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,313,0,0
+1.70054E+12,933,message_ch,200,OK,JMI Group 1-12,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,287,0,0
+1.70054E+12,805,video,200,OK,JMI Group 1-3,text,TRUE,,31599,127,15,15,http://www.jmigroup-bd.com/video/,343,0,0
+1.70054E+12,913,tvc_ovc,200,OK,JMI Group 1-5,text,TRUE,,29529,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,511,0,0
+1.70054E+12,868,news_event,200,OK,JMI Group 1-15,text,TRUE,,42947,132,15,15,http://www.jmigroup-bd.com/news_event/,342,0,0
+1.70054E+12,1021,corporate_profile,200,OK,JMI Group 1-10,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,324,0,0
+1.70054E+12,1141,tvc_ovc,200,OK,JMI Group 1-14,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,381,0,0
+1.70054E+12,1179,tvc_ovc,200,OK,JMI Group 1-11,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,327,0,0
+1.70054E+12,690,news_event,200,OK,JMI Group 1-4,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,244,0,0
+1.70054E+12,1181,photo_gallery,200,OK,JMI Group 1-7,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,297,0,0
+1.70054E+12,620,photo_gallery,200,OK,JMI Group 1-3,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,306,0,0
+1.70054E+12,671,news_event,200,OK,JMI Group 1-6,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,294,0,0
+1.70054E+12,1366,our_mission,200,OK,JMI Group 1-13,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,293,0,0
+1.70054E+12,1580,news_event,200,OK,JMI Group 1-1,text,TRUE,,42947,132,15,15,http://www.jmigroup-bd.com/news_event/,317,0,0
+1.70054E+12,454,our_mission,200,OK,JMI Group 1-10,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,306,0,0
+1.70054E+12,867,tvc_ovc,200,OK,JMI Group 1-9,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,334,0,0
+1.70054E+12,674,video,200,OK,JMI Group 1-15,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,203,0,0
+1.70054E+12,1817,Home Page,200,OK,JMI Group 1-8,text,TRUE,,118045,121,15,15,http://www.jmigroup-bd.com/,350,0,0
+1.70054E+12,856,corporate_profile,200,OK,JMI Group 1-12,text,TRUE,,42949,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,306,0,0
+1.70054E+12,1653,Home Page,200,OK,JMI Group 1-2,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,391,0,0
+1.70054E+12,528,key_person,200,OK,JMI Group 1-13,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,346,0,0
+1.70054E+12,608,tvc_ovc,200,OK,JMI Group 1-7,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,269,0,0
+1.70054E+12,683,video,200,OK,JMI Group 1-6,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,283,0,0
+1.70054E+12,454,message_md,200,OK,JMI Group 1-2,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,296,0,0
+1.70054E+12,490,our_mission,200,OK,JMI Group 1-12,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,292,0,0
+1.70054E+12,818,video,200,OK,JMI Group 1-4,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,252,0,0
+1.70054E+12,543,message_md,200,OK,JMI Group 1-8,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,316,0,0
+1.70054E+12,1298,Home Page,200,OK,JMI Group 1-5,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,279,0,0
+1.70054E+12,1128,tvc_ovc,200,OK,JMI Group 1-3,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,538,0,0
+1.70054E+12,472,message_ch,200,OK,JMI Group 1-2,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,275,0,0
+1.70054E+12,1148,key_person,200,OK,JMI Group 1-10,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,360,0,0
+1.70054E+12,511,key_person,200,OK,JMI Group 1-12,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,289,0,0
+1.70054E+12,561,message_md,200,OK,JMI Group 1-5,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,310,0,0
+1.70054E+12,1528,Home Page,200,OK,JMI Group 1-14,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,334,0,0
+1.70054E+12,705,photo_gallery,200,OK,JMI Group 1-6,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,283,0,0
+1.70054E+12,1292,photo_gallery,200,OK,JMI Group 1-15,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,440,0,0
+1.70054E+12,804,message_ch,200,OK,JMI Group 1-8,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,542,0,0
+1.70054E+12,1511,video,200,OK,JMI Group 1-1,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,450,0,0
+1.70054E+12,1033,Home Page,200,OK,JMI Group 1-7,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,347,0,0
+1.70054E+12,1035,news_event,200,OK,JMI Group 1-13,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,285,0,0
+1.70054E+12,424,corporate_profile,200,OK,JMI Group 1-2,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,267,0,0
+1.70054E+12,443,news_event,200,OK,JMI Group 1-12,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,265,0,0
+1.70054E+12,578,news_event,200,OK,JMI Group 1-10,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,241,0,0
+1.70054E+12,477,message_md,200,OK,JMI Group 1-14,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,264,0,0
+1.70054E+12,488,message_ch,200,OK,JMI Group 1-5,text,TRUE,,29550,132,15,15,http://www.jmigroup-bd.com/message_ch/,299,0,0
+1.70054E+12,454,tvc_ovc,200,OK,JMI Group 1-6,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,256,0,0
+1.70054E+12,799,Home Page,200,OK,JMI Group 1-3,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,269,0,0
+1.70054E+12,491,tvc_ovc,200,OK,JMI Group 1-15,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,289,0,0
+1.70054E+12,1828,Home Page,200,OK,JMI Group 1-9,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,375,0,0
+1.70054E+12,442,message_md,200,OK,JMI Group 1-7,text,TRUE,,31021,132,15,15,http://www.jmigroup-bd.com/message_md/,292,0,0
+1.70054E+12,447,video,200,OK,JMI Group 1-13,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,278,0,0
+1.70054E+12,438,our_mission,200,OK,JMI Group 1-2,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,310,0,0
+1.70054E+12,410,video,200,OK,JMI Group 1-12,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,304,0,0
+1.70054E+12,1406,photo_gallery,200,OK,JMI Group 1-4,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,347,0,0
+1.70054E+12,603,corporate_profile,200,OK,JMI Group 1-8,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,304,0,0
+1.70054E+12,432,message_ch,200,OK,JMI Group 1-14,text,TRUE,,29550,132,15,15,http://www.jmigroup-bd.com/message_ch/,268,0,0
+1.70054E+12,454,corporate_profile,200,OK,JMI Group 1-5,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,268,0,0
+1.70054E+12,343,message_md,200,OK,JMI Group 1-3,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,256,0,0
+1.70054E+12,2398,Home Page,200,OK,JMI Group 1-11,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,310,0,0
+1.70054E+12,502,video,200,OK,JMI Group 1-10,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,311,0,0
+1.70054E+12,348,key_person,200,OK,JMI Group 1-2,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,280,0,0
+1.70054E+12,360,message_ch,200,OK,JMI Group 1-7,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,269,0,0
+1.70054E+12,841,photo_gallery,200,OK,JMI Group 1-1,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,293,0,0
+1.70054E+12,537,message_md,200,OK,JMI Group 1-9,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,295,0,0
+1.70054E+12,450,photo_gallery,200,OK,JMI Group 1-12,text,TRUE,,52997,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,303,0,0
+1.70054E+12,553,photo_gallery,200,OK,JMI Group 1-13,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,300,0,0
+1.70054E+12,449,tvc_ovc,200,OK,JMI Group 1-4,text,TRUE,,29529,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,301,0,0
+1.70054E+12,521,our_mission,200,OK,JMI Group 1-8,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,348,0,0
+1.70054E+12,478,our_mission,200,OK,JMI Group 1-5,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,332,0,0
+1.70054E+12,528,message_ch,200,OK,JMI Group 1-3,text,TRUE,,29550,132,15,15,http://www.jmigroup-bd.com/message_ch/,407,0,0
+1.70054E+12,584,corporate_profile,200,OK,JMI Group 1-14,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,321,0,0
+1.70054E+12,973,Home Page,200,OK,JMI Group 1-6,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,356,0,0
+1.70054E+12,551,message_md,200,OK,JMI Group 1-11,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,385,0,0
+1.70054E+12,510,news_event,200,OK,JMI Group 1-2,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,392,0,0
+1.70054E+12,608,photo_gallery,200,OK,JMI Group 1-10,text,TRUE,,52997,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,326,0,0
+1.70054E+12,427,tvc_ovc,200,OK,JMI Group 1-13,text,TRUE,,29529,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,317,0,0
+1.70054E+12,622,tvc_ovc,200,OK,JMI Group 1-1,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,390,0,0
+1.70054E+12,479,tvc_ovc,200,OK,JMI Group 1-12,text,TRUE,,29529,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,404,0,0
+1.70054E+12,530,message_ch,200,OK,JMI Group 1-9,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,379,0,0
+1.70054E+12,427,key_person,200,OK,JMI Group 1-8,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,335,0,0
+1.70054E+12,368,key_person,200,OK,JMI Group 1-5,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,323,0,0
+1.70054E+12,825,corporate_profile,200,OK,JMI Group 1-7,text,TRUE,,42949,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,407,0,0
+1.70054E+12,426,message_ch,200,OK,JMI Group 1-11,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,297,0,0
+1.70054E+12,375,video,200,OK,JMI Group 1-2,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,257,0,0
+1.70054E+12,488,corporate_profile,200,OK,JMI Group 1-3,text,TRUE,,42949,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,352,0,0
+1.70054E+12,523,message_md,200,OK,JMI Group 1-6,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,379,0,0
+1.70054E+12,456,tvc_ovc,200,OK,JMI Group 1-10,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,333,0,0
+1.70054E+12,529,our_mission,200,OK,JMI Group 1-14,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,436,0,0
+1.70054E+12,1506,Home Page,200,OK,JMI Group 1-15,text,TRUE,,118045,121,15,15,http://www.jmigroup-bd.com/,315,0,0
+1.70054E+12,423,news_event,200,OK,JMI Group 1-5,text,TRUE,,42947,132,15,15,http://www.jmigroup-bd.com/news_event/,287,0,0
+1.70054E+12,585,corporate_profile,200,OK,JMI Group 1-9,text,TRUE,,42949,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,287,0,0
+1.70054E+12,572,news_event,200,OK,JMI Group 1-8,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,280,0,0
+1.70054E+12,1176,Home Page,200,OK,JMI Group 1-4,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,472,0,0
+1.70054E+12,482,message_ch,200,OK,JMI Group 1-6,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,309,0,0
+1.70054E+12,481,key_person,200,OK,JMI Group 1-14,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,315,0,0
+1.70054E+12,376,video,200,OK,JMI Group 1-5,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,277,0,0
+1.70054E+12,988,Home Page,200,OK,JMI Group 1-12,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,365,0,0
+1.70054E+12,504,our_mission,200,OK,JMI Group 1-9,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,317,0,0
+1.70054E+12,907,photo_gallery,200,OK,JMI Group 1-2,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,372,0,0
+1.70054E+12,913,corporate_profile,200,OK,JMI Group 1-11,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,345,0,0
+1.70054E+12,524,video,200,OK,JMI Group 1-8,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,316,0,0
+1.70054E+12,946,our_mission,200,OK,JMI Group 1-3,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,421,0,0
+1.70054E+12,478,corporate_profile,200,OK,JMI Group 1-6,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,236,0,0
+1.70054E+12,555,message_md,200,OK,JMI Group 1-4,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,330,0,0
+1.70054E+12,1331,Home Page,200,OK,JMI Group 1-13,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,388,0,0
+1.70054E+12,532,news_event,200,OK,JMI Group 1-14,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,289,0,0
+1.70054E+12,361,message_md,200,OK,JMI Group 1-12,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,250,0,0
+1.70054E+12,1172,our_mission,200,OK,JMI Group 1-7,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,338,0,0
+1.70054E+12,913,message_md,200,OK,JMI Group 1-15,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,506,0,0
+1.70054E+12,532,photo_gallery,200,OK,JMI Group 1-5,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,284,0,0
+1.70054E+12,1101,Home Page,200,OK,JMI Group 1-10,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,410,0,0
+1.70054E+12,356,tvc_ovc,200,OK,JMI Group 1-2,text,TRUE,,29529,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,283,0,0
+1.70054E+12,392,key_person,200,OK,JMI Group 1-9,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,304,0,0
+1.70054E+12,1526,Home Page,200,OK,JMI Group 1-1,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,480,0,0
+1.70054E+12,353,key_person,200,OK,JMI Group 1-3,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,253,0,0
+1.70054E+12,461,our_mission,200,OK,JMI Group 1-11,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,286,0,0
+1.70054E+12,449,photo_gallery,200,OK,JMI Group 1-8,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,212,0,0
+1.70054E+12,361,key_person,200,OK,JMI Group 1-7,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,218,0,0
+1.70054E+12,386,video,200,OK,JMI Group 1-14,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,269,0,0
+1.70054E+12,394,message_ch,200,OK,JMI Group 1-12,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,277,0,0
+1.70054E+12,457,message_ch,200,OK,JMI Group 1-4,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,313,0,0
+1.70054E+12,441,message_md,200,OK,JMI Group 1-13,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,265,0,0
+1.70054E+12,415,message_md,200,OK,JMI Group 1-10,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,302,0,0
+1.70054E+12,493,message_ch,200,OK,JMI Group 1-15,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,294,0,0
+1.70054E+12,368,message_md,200,OK,JMI Group 1-1,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,232,0,0
+1.70054E+12,475,tvc_ovc,200,OK,JMI Group 1-5,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,345,0,0
+1.70054E+12,395,news_event,200,OK,JMI Group 1-3,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,253,0,0
+1.70054E+12,454,news_event,200,OK,JMI Group 1-9,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,269,0,0
+1.70054E+12,410,tvc_ovc,200,OK,JMI Group 1-8,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,296,0,0
+1.70054E+12,489,key_person,200,OK,JMI Group 1-11,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,320,0,0
+1.70054E+12,929,our_mission,200,OK,JMI Group 1-6,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,271,0,0
+1.70054E+12,603,message_ch,200,OK,JMI Group 1-10,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,318,0,0
+1.70054E+12,738,message_ch,200,OK,JMI Group 1-13,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,258,0,0
+1.70054E+12,355,key_person,200,OK,JMI Group 1-6,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,190,0,0
+1.70054E+12,732,corporate_profile,200,OK,JMI Group 1-15,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,280,0,0
+1.70054E+12,921,news_event,200,OK,JMI Group 1-7,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,270,0,0
+1.70054E+12,674,video,200,OK,JMI Group 1-3,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,295,0,0
+1.70054E+12,1182,Home Page,200,OK,JMI Group 1-2,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,338,0,0
+1.70054E+12,722,video,200,OK,JMI Group 1-9,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,322,0,0
+1.70054E+12,597,news_event,200,OK,JMI Group 1-11,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,265,0,0
+1.70054E+12,982,photo_gallery,200,OK,JMI Group 1-14,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,220,0,0
+1.70054E+12,1037,corporate_profile,200,OK,JMI Group 1-4,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,277,0,0
+1.70054E+12,922,message_ch,200,OK,JMI Group 1-1,text,TRUE,,29550,132,15,15,http://www.jmigroup-bd.com/message_ch/,609,0,0
+1.70054E+12,332,corporate_profile,200,OK,JMI Group 1-13,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,199,0,0
+1.70054E+12,1104,corporate_profile,200,OK,JMI Group 1-12,text,TRUE,,42949,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,312,0,0
+1.70054E+12,945,Home Page,200,OK,JMI Group 1-8,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,326,0,0
+1.70054E+12,534,corporate_profile,200,OK,JMI Group 1-10,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,271,0,0
+1.70054E+12,1115,Home Page,200,OK,JMI Group 1-5,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,620,0,0
+1.70054E+12,474,news_event,200,OK,JMI Group 1-6,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,266,0,0
+1.70054E+12,370,message_md,200,OK,JMI Group 1-2,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,243,0,0
+1.70054E+12,513,video,200,OK,JMI Group 1-7,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,286,0,0
+1.70054E+12,582,our_mission,200,OK,JMI Group 1-15,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,333,0,0
+1.70054E+12,552,photo_gallery,200,OK,JMI Group 1-3,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,259,0,0
+1.70054E+12,533,tvc_ovc,200,OK,JMI Group 1-14,text,TRUE,,29529,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,326,0,0
+1.70054E+12,413,our_mission,200,OK,JMI Group 1-12,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,287,0,0
+1.70054E+12,441,our_mission,200,OK,JMI Group 1-13,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,271,0,0
+1.70054E+12,560,our_mission,200,OK,JMI Group 1-4,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,333,0,0
+1.70054E+12,365,video,200,OK,JMI Group 1-6,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,265,0,0
+1.70054E+12,386,message_ch,200,OK,JMI Group 1-2,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,280,0,0
+1.70054E+12,292,key_person,200,OK,JMI Group 1-15,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,208,0,0
+1.70054E+12,444,message_md,200,OK,JMI Group 1-5,text,TRUE,,31021,132,15,15,http://www.jmigroup-bd.com/message_md/,281,0,0
+1.70054E+12,295,tvc_ovc,200,OK,JMI Group 1-3,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,249,0,0
+1.70054E+12,298,key_person,200,OK,JMI Group 1-12,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,239,0,0
+1.70054E+12,332,key_person,200,OK,JMI Group 1-13,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,247,0,0
+1.70054E+12,457,photo_gallery,200,OK,JMI Group 1-7,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,264,0,0
+1.70054E+12,908,corporate_profile,200,OK,JMI Group 1-1,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,320,0,0
+1.70054E+12,372,key_person,200,OK,JMI Group 1-4,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,244,0,0
+1.70054E+12,372,corporate_profile,200,OK,JMI Group 1-2,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,238,0,0
+1.70054E+12,414,photo_gallery,200,OK,JMI Group 1-6,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,203,0,0
+1.70054E+12,869,message_md,200,OK,JMI Group 1-8,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,286,0,0
+1.70054E+12,377,news_event,200,OK,JMI Group 1-15,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,201,0,0
+1.70054E+12,1181,photo_gallery,200,OK,JMI Group 1-9,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,299,0,0
+1.70054E+12,379,news_event,200,OK,JMI Group 1-12,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,237,0,0
+1.70054E+12,701,Home Page,200,OK,JMI Group 1-14,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,303,0,0
+1.70054E+12,494,message_ch,200,OK,JMI Group 1-5,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,212,0,0
+1.70054E+12,1308,video,200,OK,JMI Group 1-11,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,312,0,0
+1.70054E+12,413,tvc_ovc,200,OK,JMI Group 1-7,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,239,0,0
+1.70054E+12,462,news_event,200,OK,JMI Group 1-13,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,271,0,0
+1.70054E+12,350,our_mission,200,OK,JMI Group 1-1,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,249,0,0
+1.70054E+12,323,our_mission,200,OK,JMI Group 1-2,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,255,0,0
+1.70054E+12,437,news_event,200,OK,JMI Group 1-4,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,260,0,0
+1.70054E+12,308,tvc_ovc,200,OK,JMI Group 1-9,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,211,0,0
+1.70054E+12,361,tvc_ovc,200,OK,JMI Group 1-6,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,274,0,0
+1.70054E+12,1292,our_mission,200,OK,JMI Group 1-10,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,299,0,0
+1.70054E+12,467,message_ch,200,OK,JMI Group 1-8,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,281,0,0
+1.70054E+12,358,message_md,200,OK,JMI Group 1-14,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,220,0,0
+1.70054E+12,488,video,200,OK,JMI Group 1-15,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,385,0,0
+1.70054E+12,387,video,200,OK,JMI Group 1-12,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,247,0,0
+1.70054E+12,918,Home Page,200,OK,JMI Group 1-3,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,291,0,0
+1.70054E+12,563,corporate_profile,200,OK,JMI Group 1-5,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,261,0,0
+1.70054E+12,471,video,200,OK,JMI Group 1-13,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,270,0,0
+1.70054E+12,406,key_person,200,OK,JMI Group 1-2,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,270,0,0
+1.70054E+12,476,key_person,200,OK,JMI Group 1-1,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,296,0,0
+1.70054E+12,542,photo_gallery,200,OK,JMI Group 1-11,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,235,0,0
+1.70054E+12,427,video,200,OK,JMI Group 1-4,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,282,0,0
+1.70054E+12,312,key_person,200,OK,JMI Group 1-10,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,245,0,0
+1.70054E+12,494,message_ch,200,OK,JMI Group 1-14,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,278,0,0
+1.70054E+12,444,message_md,200,OK,JMI Group 1-3,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,301,0,0
+1.70054E+12,700,photo_gallery,200,OK,JMI Group 1-15,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,295,0,0
+1.70054E+12,831,photo_gallery,200,OK,JMI Group 1-12,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,314,0,0
+1.70054E+12,632,tvc_ovc,200,OK,JMI Group 1-11,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,314,0,0
+1.70054E+12,606,photo_gallery,200,OK,JMI Group 1-4,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,338,0,0
+1.70054E+12,900,corporate_profile,200,OK,JMI Group 1-8,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,293,0,0
+1.70054E+12,666,news_event,200,OK,JMI Group 1-2,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,295,0,0
+1.70054E+12,373,message_ch,200,OK,JMI Group 1-3,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,261,0,0
+1.70054E+12,637,news_event,200,OK,JMI Group 1-10,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,314,0,0
+1.70054E+12,461,corporate_profile,200,OK,JMI Group 1-14,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,253,0,0
+1.70054E+12,784,our_mission,200,OK,JMI Group 1-5,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,273,0,0
+1.70054E+12,773,photo_gallery,200,OK,JMI Group 1-13,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,266,0,0
+1.70054E+12,1141,Home Page,200,OK,JMI Group 1-6,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,364,0,0
+1.70054E+12,300,tvc_ovc,200,OK,JMI Group 1-15,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,208,0,0
+1.70054E+12,1204,Home Page,200,OK,JMI Group 1-9,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,312,0,0
+1.70054E+12,847,news_event,200,OK,JMI Group 1-1,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,262,0,0
+1.70054E+12,334,tvc_ovc,200,OK,JMI Group 1-12,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,218,0,0
+1.70054E+12,1539,Home Page,200,OK,JMI Group 1-7,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,324,0,0
+1.70054E+12,315,our_mission,200,OK,JMI Group 1-14,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,194,0,0
+1.70054E+12,382,our_mission,200,OK,JMI Group 1-8,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,207,0,0
+1.70054E+12,425,video,200,OK,JMI Group 1-2,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,258,0,0
+1.70054E+12,436,corporate_profile,200,OK,JMI Group 1-3,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,322,0,0
+1.70054E+12,472,tvc_ovc,200,OK,JMI Group 1-4,text,TRUE,,29529,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,299,0,0
+1.70054E+12,460,video,200,OK,JMI Group 1-10,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,278,0,0
+1.70054E+12,402,message_md,200,OK,JMI Group 1-6,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,284,0,0
+1.70054E+12,492,tvc_ovc,200,OK,JMI Group 1-13,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,320,0,0
+1.70054E+12,522,key_person,200,OK,JMI Group 1-5,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,339,0,0
+1.70054E+12,444,message_md,200,OK,JMI Group 1-9,text,TRUE,,31021,132,15,15,http://www.jmigroup-bd.com/message_md/,325,0,0
+1.70054E+12,497,video,200,OK,JMI Group 1-1,text,TRUE,,31591,127,15,15,http://www.jmigroup-bd.com/video/,331,0,0
+1.70054E+12,343,key_person,200,OK,JMI Group 1-8,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,231,0,0
+1.70054E+12,434,message_md,200,OK,JMI Group 1-7,text,TRUE,,31013,132,15,15,http://www.jmigroup-bd.com/message_md/,221,0,0
+1.70054E+12,418,key_person,200,OK,JMI Group 1-14,text,TRUE,,28840,132,15,15,http://www.jmigroup-bd.com/key_person/,277,0,0
+1.70054E+12,409,our_mission,200,OK,JMI Group 1-3,text,TRUE,,29178,133,15,15,http://www.jmigroup-bd.com/our_mission/,286,0,0
+1.70054E+12,386,message_ch,200,OK,JMI Group 1-6,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,282,0,0
+1.70054E+12,439,message_ch,200,OK,JMI Group 1-9,text,TRUE,,29542,132,15,15,http://www.jmigroup-bd.com/message_ch/,258,0,0
+1.70054E+12,762,photo_gallery,200,OK,JMI Group 1-2,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,305,0,0
+1.70054E+12,839,photo_gallery,200,OK,JMI Group 1-10,text,TRUE,,52990,135,15,15,http://www.jmigroup-bd.com/photo_gallery/,300,0,0
+1.70054E+12,435,corporate_profile,200,OK,JMI Group 1-6,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,258,0,0
+1.70054E+12,638,news_event,200,OK,JMI Group 1-8,text,TRUE,,42939,132,15,15,http://www.jmigroup-bd.com/news_event/,306,0,0
+1.70054E+12,1398,Home Page,200,OK,JMI Group 1-11,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,384,0,0
+1.70054E+12,1131,Home Page,200,OK,JMI Group 1-12,text,TRUE,,118037,121,15,15,http://www.jmigroup-bd.com/,372,0,0
+1.70054E+12,370,corporate_profile,200,OK,JMI Group 1-9,text,TRUE,,42941,139,15,15,http://www.jmigroup-bd.com/corporate_profile/,223,0,0
+1.70054E+12,1318,Home Page,200,OK,JMI Group 1-15,text,TRUE,,118045,121,15,15,http://www.jmigroup-bd.com/,362,0,0
+1.70054E+12,280,tvc_ovc,200,OK,JMI Group 1-2,text,TRUE,,29521,129,15,15,http://www.jmigroup-bd.com/tvc_ovc/,192,0,0
+1.70054E+12,917,news_event,200,OK,JMI Group 1-5,text,TRUE,,42939,132,14,14,http://www.jmigroup-bd.com/news_event/,277,0,0
+1.70054E+12,810,news_event,200,OK,JMI Group 1-14,text,TRUE,,42939,132,14,14,http://www.jmigroup-bd.com/news_event/,261,0,0
+1.70054E+12,825,message_ch,200,OK,JMI Group 1-7,text,TRUE,,29542,132,14,14,http://www.jmigroup-bd.com/message_ch/,285,0,0
+1.70054E+12,370,tvc_ovc,200,OK,JMI Group 1-10,text,TRUE,,29521,129,14,14,http://www.jmigroup-bd.com/tvc_ovc/,221,0,0
+1.70054E+12,370,video,200,OK,JMI Group 1-8,text,TRUE,,31591,127,14,14,http://www.jmigroup-bd.com/video/,214,0,0
+1.70054E+12,370,message_md,200,OK,JMI Group 1-12,text,TRUE,,31013,132,14,14,http://www.jmigroup-bd.com/message_md/,268,0,0
+1.70054E+12,364,our_mission,200,OK,JMI Group 1-9,text,TRUE,,29178,133,14,14,http://www.jmigroup-bd.com/our_mission/,243,0,0
+1.70054E+12,366,message_md,200,OK,JMI Group 1-15,text,TRUE,,31013,132,14,14,http://www.jmigroup-bd.com/message_md/,268,0,0
+1.70054E+12,474,message_md,200,OK,JMI Group 1-11,text,TRUE,,31013,132,14,14,http://www.jmigroup-bd.com/message_md/,275,0,0
+1.70054E+12,1226,photo_gallery,200,OK,JMI Group 1-1,text,TRUE,,52990,135,14,14,http://www.jmigroup-bd.com/photo_gallery/,275,0,0
+1.70054E+12,388,video,200,OK,JMI Group 1-5,text,TRUE,,31591,127,14,14,http://www.jmigroup-bd.com/video/,264,0,0
+1.70054E+12,368,video,200,OK,JMI Group 1-14,text,TRUE,,31591,127,14,14,http://www.jmigroup-bd.com/video/,251,0,0
+1.70054E+12,634,our_mission,200,OK,JMI Group 1-6,text,TRUE,,29178,133,14,14,http://www.jmigroup-bd.com/our_mission/,236,0,0
+1.70054E+12,387,corporate_profile,200,OK,JMI Group 1-7,text,TRUE,,42941,139,14,14,http://www.jmigroup-bd.com/corporate_profile/,228,0,0
+1.70054E+12,275,message_ch,200,OK,JMI Group 1-12,text,TRUE,,29542,132,14,14,http://www.jmigroup-bd.com/message_ch/,232,0,0
+1.70054E+12,1496,Home Page,200,OK,JMI Group 1-13,text,TRUE,,118037,121,14,14,http://www.jmigroup-bd.com/,308,0,0
+1.70054E+12,1265,key_person,200,OK,JMI Group 1-3,text,TRUE,,28840,132,14,14,http://www.jmigroup-bd.com/key_person/,280,0,0
+1.70054E+12,366,key_person,200,OK,JMI Group 1-9,text,TRUE,,28840,132,14,14,http://www.jmigroup-bd.com/key_person/,270,0,0
+1.70054E+12,1710,Home Page,200,OK,JMI Group 1-4,text,TRUE,,118037,121,14,14,http://www.jmigroup-bd.com/,375,0,0
+1.70054E+12,349,message_ch,200,OK,JMI Group 1-15,text,TRUE,,29542,132,14,14,http://www.jmigroup-bd.com/message_ch/,258,0,0
+1.70054E+12,388,message_ch,200,OK,JMI Group 1-11,text,TRUE,,29542,132,14,14,http://www.jmigroup-bd.com/message_ch/,247,0,0
+1.70054E+12,513,photo_gallery,200,OK,JMI Group 1-8,text,TRUE,,52990,135,14,14,http://www.jmigroup-bd.com/photo_gallery/,271,0,0
+1.70054E+12,462,tvc_ovc,200,OK,JMI Group 1-1,text,TRUE,,29529,129,14,14,http://www.jmigroup-bd.com/tvc_ovc/,322,0,0
+1.70054E+12,488,photo_gallery,200,OK,JMI Group 1-5,text,TRUE,,52997,135,14,14,http://www.jmigroup-bd.com/photo_gallery/,280,0,0
+1.70054E+12,446,corporate_profile,200,OK,JMI Group 1-12,text,TRUE,,42941,139,14,14,http://www.jmigroup-bd.com/corporate_profile/,325,0,0
+1.70054E+12,529,key_person,200,OK,JMI Group 1-6,text,TRUE,,28840,132,14,14,http://www.jmigroup-bd.com/key_person/,318,0,0
+1.70054E+12,499,corporate_profile,200,OK,JMI Group 1-15,text,TRUE,,42941,139,14,14,http://www.jmigroup-bd.com/corporate_profile/,351,0,0
+1.70054E+12,521,news_event,200,OK,JMI Group 1-9,text,TRUE,,42939,132,14,14,http://www.jmigroup-bd.com/news_event/,314,0,0
+1.70054E+12,480,tvc_ovc,200,OK,JMI Group 1-8,text,TRUE,,29521,129,14,14,http://www.jmigroup-bd.com/tvc_ovc/,329,0,0
+1.70054E+12,341,tvc_ovc,200,OK,JMI Group 1-5,text,TRUE,,29529,129,14,14,http://www.jmigroup-bd.com/tvc_ovc/,229,0,0
+1.70054E+12,639,news_event,200,OK,JMI Group 1-3,text,TRUE,,42939,132,13,13,http://www.jmigroup-bd.com/news_event/,329,0,0
+1.70054E+12,603,message_md,200,OK,JMI Group 1-4,text,TRUE,,31013,132,13,13,http://www.jmigroup-bd.com/message_md/,317,0,0
+1.70054E+12,745,message_md,200,OK,JMI Group 1-13,text,TRUE,,31021,132,13,13,http://www.jmigroup-bd.com/message_md/,336,0,0
+1.70054E+12,1135,Home Page,200,OK,JMI Group 1-10,text,TRUE,,118037,121,13,13,http://www.jmigroup-bd.com/,310,0,0
+1.70054E+12,833,our_mission,200,OK,JMI Group 1-7,text,TRUE,,29178,133,13,13,http://www.jmigroup-bd.com/our_mission/,414,0,0
+1.70054E+12,857,photo_gallery,200,OK,JMI Group 1-14,text,TRUE,,52990,135,13,13,http://www.jmigroup-bd.com/photo_gallery/,305,0,0
+1.70054E+12,312,our_mission,200,OK,JMI Group 1-12,text,TRUE,,29178,133,13,13,http://www.jmigroup-bd.com/our_mission/,227,0,0
+1.70054E+12,402,news_event,200,OK,JMI Group 1-6,text,TRUE,,42939,132,13,13,http://www.jmigroup-bd.com/news_event/,260,0,0
+1.70054E+12,274,video,200,OK,JMI Group 1-9,text,TRUE,,31591,127,13,13,http://www.jmigroup-bd.com/video/,208,0,0
+1.70054E+12,293,our_mission,200,OK,JMI Group 1-15,text,TRUE,,29178,133,13,13,http://www.jmigroup-bd.com/our_mission/,231,0,0
+1.70054E+12,840,corporate_profile,200,OK,JMI Group 1-11,text,TRUE,,42941,139,13,13,http://www.jmigroup-bd.com/corporate_profile/,332,0,0
+1.70054E+12,314,video,200,OK,JMI Group 1-3,text,TRUE,,31591,127,13,13,http://www.jmigroup-bd.com/video/,212,0,0
+1.70054E+12,399,message_ch,200,OK,JMI Group 1-4,text,TRUE,,29542,132,13,13,http://www.jmigroup-bd.com/message_ch/,235,0,0
+1.70054E+12,498,message_ch,200,OK,JMI Group 1-13,text,TRUE,,29542,132,13,13,http://www.jmigroup-bd.com/message_ch/,257,0,0
+1.70054E+12,522,key_person,200,OK,JMI Group 1-7,text,TRUE,,28840,132,13,13,http://www.jmigroup-bd.com/key_person/,265,0,0
+1.70054E+12,568,message_md,200,OK,JMI Group 1-10,text,TRUE,,31021,132,13,13,http://www.jmigroup-bd.com/message_md/,295,0,0
+1.70054E+12,483,photo_gallery,200,OK,JMI Group 1-9,text,TRUE,,52990,135,13,13,http://www.jmigroup-bd.com/photo_gallery/,256,0,0
+1.70054E+12,1087,Home Page,200,OK,JMI Group 1-1,text,TRUE,,118037,121,13,13,http://www.jmigroup-bd.com/,356,0,0
+1.70054E+12,620,tvc_ovc,200,OK,JMI Group 1-14,text,TRUE,,29521,129,13,13,http://www.jmigroup-bd.com/tvc_ovc/,297,0,0
+1.70054E+12,622,key_person,200,OK,JMI Group 1-12,text,TRUE,,28840,132,12,12,http://www.jmigroup-bd.com/key_person/,246,0,0
+1.70054E+12,387,corporate_profile,200,OK,JMI Group 1-4,text,TRUE,,42941,139,12,12,http://www.jmigroup-bd.com/corporate_profile/,255,0,0
+1.70054E+12,477,photo_gallery,200,OK,JMI Group 1-3,text,TRUE,,52990,135,12,12,http://www.jmigroup-bd.com/photo_gallery/,262,0,0
+1.70054E+12,360,corporate_profile,200,OK,JMI Group 1-13,text,TRUE,,42941,139,12,12,http://www.jmigroup-bd.com/corporate_profile/,242,0,0
+1.70054E+12,354,message_ch,200,OK,JMI Group 1-10,text,TRUE,,29542,132,12,12,http://www.jmigroup-bd.com/message_ch/,267,0,0
+1.70054E+12,409,news_event,200,OK,JMI Group 1-7,text,TRUE,,42947,132,12,12,http://www.jmigroup-bd.com/news_event/,216,0,0
+1.70054E+12,695,our_mission,200,OK,JMI Group 1-11,text,TRUE,,29178,133,12,12,http://www.jmigroup-bd.com/our_mission/,281,0,0
+1.70054E+12,844,key_person,200,OK,JMI Group 1-15,text,TRUE,,28840,132,12,12,http://www.jmigroup-bd.com/key_person/,257,0,0
+1.70054E+12,382,news_event,200,OK,JMI Group 1-12,text,TRUE,,42939,132,12,12,http://www.jmigroup-bd.com/news_event/,278,0,0
+1.70054E+12,304,tvc_ovc,200,OK,JMI Group 1-3,text,TRUE,,29521,129,12,12,http://www.jmigroup-bd.com/tvc_ovc/,228,0,0
+1.70054E+12,310,our_mission,200,OK,JMI Group 1-4,text,TRUE,,29178,133,11,11,http://www.jmigroup-bd.com/our_mission/,264,0,0
+1.70054E+12,981,video,200,OK,JMI Group 1-6,text,TRUE,,31591,127,11,11,http://www.jmigroup-bd.com/video/,246,0,0
+1.70054E+12,460,message_md,200,OK,JMI Group 1-1,text,TRUE,,31013,132,11,11,http://www.jmigroup-bd.com/message_md/,272,0,0
+1.70054E+12,1243,Home Page,200,OK,JMI Group 1-8,text,TRUE,,118037,121,11,11,http://www.jmigroup-bd.com/,307,0,0
+1.70054E+12,344,video,200,OK,JMI Group 1-7,text,TRUE,,31591,127,11,11,http://www.jmigroup-bd.com/video/,240,0,0
+1.70054E+12,359,corporate_profile,200,OK,JMI Group 1-10,text,TRUE,,42941,139,11,11,http://www.jmigroup-bd.com/corporate_profile/,259,0,0
+1.70054E+12,701,tvc_ovc,200,OK,JMI Group 1-9,text,TRUE,,29529,129,11,11,http://www.jmigroup-bd.com/tvc_ovc/,267,0,0
+1.70054E+12,301,video,200,OK,JMI Group 1-12,text,TRUE,,31591,127,10,10,http://www.jmigroup-bd.com/video/,250,0,0
+1.70054E+12,513,our_mission,200,OK,JMI Group 1-13,text,TRUE,,29178,133,10,10,http://www.jmigroup-bd.com/our_mission/,238,0,0
+1.70054E+12,352,message_ch,200,OK,JMI Group 1-1,text,TRUE,,29542,132,10,10,http://www.jmigroup-bd.com/message_ch/,266,0,0
+1.70054E+12,305,message_md,200,OK,JMI Group 1-8,text,TRUE,,31013,132,10,10,http://www.jmigroup-bd.com/message_md/,214,0,0
+1.70054E+12,503,news_event,200,OK,JMI Group 1-15,text,TRUE,,42939,132,10,10,http://www.jmigroup-bd.com/news_event/,249,0,0
+1.70054E+12,562,key_person,200,OK,JMI Group 1-11,text,TRUE,,28840,132,10,10,http://www.jmigroup-bd.com/key_person/,209,0,0
+1.70054E+12,440,photo_gallery,200,OK,JMI Group 1-6,text,TRUE,,52990,135,10,10,http://www.jmigroup-bd.com/photo_gallery/,287,0,0
+1.70054E+12,550,key_person,200,OK,JMI Group 1-4,text,TRUE,,28840,132,10,10,http://www.jmigroup-bd.com/key_person/,266,0,0
+1.70054E+12,305,our_mission,200,OK,JMI Group 1-10,text,TRUE,,29178,133,10,10,http://www.jmigroup-bd.com/our_mission/,223,0,0
+1.70054E+12,310,photo_gallery,200,OK,JMI Group 1-12,text,TRUE,,52990,135,10,10,http://www.jmigroup-bd.com/photo_gallery/,213,0,0
+1.70054E+12,326,key_person,200,OK,JMI Group 1-13,text,TRUE,,28840,132,10,10,http://www.jmigroup-bd.com/key_person/,188,0,0
+1.70054E+12,369,corporate_profile,200,OK,JMI Group 1-1,text,TRUE,,42941,139,10,10,http://www.jmigroup-bd.com/corporate_profile/,196,0,0
+1.70054E+12,263,key_person,200,OK,JMI Group 1-10,text,TRUE,,28840,132,10,10,http://www.jmigroup-bd.com/key_person/,186,0,0
+1.70054E+12,362,tvc_ovc,200,OK,JMI Group 1-6,text,TRUE,,29521,129,10,10,http://www.jmigroup-bd.com/tvc_ovc/,209,0,0
+1.70054E+12,306,news_event,200,OK,JMI Group 1-4,text,TRUE,,42939,132,9,9,http://www.jmigroup-bd.com/news_event/,183,0,0
+1.70054E+12,282,tvc_ovc,200,OK,JMI Group 1-12,text,TRUE,,29521,129,9,9,http://www.jmigroup-bd.com/tvc_ovc/,226,0,0
+1.70054E+12,451,video,200,OK,JMI Group 1-15,text,TRUE,,31591,127,8,8,http://www.jmigroup-bd.com/video/,215,0,0
+1.70054E+12,457,news_event,200,OK,JMI Group 1-11,text,TRUE,,42939,132,8,8,http://www.jmigroup-bd.com/news_event/,258,0,0
+1.70054E+12,678,photo_gallery,200,OK,JMI Group 1-7,text,TRUE,,52997,135,8,8,http://www.jmigroup-bd.com/photo_gallery/,240,0,0
+1.70054E+12,604,message_ch,200,OK,JMI Group 1-8,text,TRUE,,29550,132,8,8,http://www.jmigroup-bd.com/message_ch/,229,0,0
+1.70054E+12,237,video,200,OK,JMI Group 1-4,text,TRUE,,31591,127,8,8,http://www.jmigroup-bd.com/video/,168,0,0
+1.70054E+12,292,news_event,200,OK,JMI Group 1-10,text,TRUE,,42939,132,8,8,http://www.jmigroup-bd.com/news_event/,212,0,0
+1.70054E+12,351,our_mission,200,OK,JMI Group 1-1,text,TRUE,,29178,133,8,8,http://www.jmigroup-bd.com/our_mission/,239,0,0
+1.70054E+12,541,news_event,200,OK,JMI Group 1-13,text,TRUE,,42939,132,8,8,http://www.jmigroup-bd.com/news_event/,194,0,0
+1.70054E+12,340,tvc_ovc,200,OK,JMI Group 1-7,text,TRUE,,29521,129,8,8,http://www.jmigroup-bd.com/tvc_ovc/,250,0,0
+1.70054E+12,385,video,200,OK,JMI Group 1-11,text,TRUE,,31591,127,7,7,http://www.jmigroup-bd.com/video/,252,0,0
+1.70054E+12,305,corporate_profile,200,OK,JMI Group 1-8,text,TRUE,,42941,139,7,7,http://www.jmigroup-bd.com/corporate_profile/,190,0,0
+1.70054E+12,441,photo_gallery,200,OK,JMI Group 1-15,text,TRUE,,52990,135,7,7,http://www.jmigroup-bd.com/photo_gallery/,249,0,0
+1.70054E+12,335,video,200,OK,JMI Group 1-10,text,TRUE,,31591,127,7,7,http://www.jmigroup-bd.com/video/,241,0,0
+1.70054E+12,426,photo_gallery,200,OK,JMI Group 1-4,text,TRUE,,52990,135,7,7,http://www.jmigroup-bd.com/photo_gallery/,234,0,0
+1.70054E+12,398,key_person,200,OK,JMI Group 1-1,text,TRUE,,28840,132,7,7,http://www.jmigroup-bd.com/key_person/,247,0,0
+1.70054E+12,370,video,200,OK,JMI Group 1-13,text,TRUE,,31591,127,7,7,http://www.jmigroup-bd.com/video/,248,0,0
+1.70054E+12,330,our_mission,200,OK,JMI Group 1-8,text,TRUE,,29178,133,7,7,http://www.jmigroup-bd.com/our_mission/,230,0,0
+1.70054E+12,309,tvc_ovc,200,OK,JMI Group 1-15,text,TRUE,,29521,129,7,7,http://www.jmigroup-bd.com/tvc_ovc/,226,0,0
+1.70054E+12,392,tvc_ovc,200,OK,JMI Group 1-4,text,TRUE,,29521,129,7,7,http://www.jmigroup-bd.com/tvc_ovc/,239,0,0
+1.70054E+12,501,photo_gallery,200,OK,JMI Group 1-10,text,TRUE,,52990,135,7,7,http://www.jmigroup-bd.com/photo_gallery/,237,0,0
+1.70054E+12,365,key_person,200,OK,JMI Group 1-8,text,TRUE,,28840,132,7,7,http://www.jmigroup-bd.com/key_person/,247,0,0
+1.70054E+12,740,photo_gallery,200,OK,JMI Group 1-11,text,TRUE,,52990,135,7,7,http://www.jmigroup-bd.com/photo_gallery/,252,0,0
+1.70054E+12,616,photo_gallery,200,OK,JMI Group 1-13,text,TRUE,,52990,135,7,7,http://www.jmigroup-bd.com/photo_gallery/,271,0,0
+1.70054E+12,274,tvc_ovc,200,OK,JMI Group 1-10,text,TRUE,,29521,129,7,7,http://www.jmigroup-bd.com/tvc_ovc/,187,0,0
+1.70054E+12,730,news_event,200,OK,JMI Group 1-1,text,TRUE,,42939,132,6,6,http://www.jmigroup-bd.com/news_event/,184,0,0
+1.70054E+12,622,Home Page,200,OK,JMI Group 1-15,text,TRUE,,118037,121,6,6,http://www.jmigroup-bd.com/,282,0,0
+1.70054E+12,589,news_event,200,OK,JMI Group 1-8,text,TRUE,,42939,132,6,6,http://www.jmigroup-bd.com/news_event/,254,0,0
+1.70054E+12,621,tvc_ovc,200,OK,JMI Group 1-11,text,TRUE,,29521,129,6,6,http://www.jmigroup-bd.com/tvc_ovc/,215,0,0
+1.70054E+12,430,message_md,200,OK,JMI Group 1-15,text,TRUE,,31013,132,6,6,http://www.jmigroup-bd.com/message_md/,281,0,0
+1.70054E+12,521,video,200,OK,JMI Group 1-1,text,TRUE,,31591,127,6,6,http://www.jmigroup-bd.com/video/,262,0,0
+1.70054E+12,678,tvc_ovc,200,OK,JMI Group 1-13,text,TRUE,,29521,129,6,6,http://www.jmigroup-bd.com/tvc_ovc/,516,0,0
+1.70054E+12,1119,Home Page,200,OK,JMI Group 1-4,text,TRUE,,118037,121,5,5,http://www.jmigroup-bd.com/,316,0,0
+1.70054E+12,488,video,200,OK,JMI Group 1-8,text,TRUE,,31591,127,5,5,http://www.jmigroup-bd.com/video/,264,0,0
+1.70054E+12,384,message_ch,200,OK,JMI Group 1-15,text,TRUE,,29542,132,5,5,http://www.jmigroup-bd.com/message_ch/,221,0,0
+1.70054E+12,512,corporate_profile,200,OK,JMI Group 1-15,text,TRUE,,42941,139,5,5,http://www.jmigroup-bd.com/corporate_profile/,318,0,0
+1.70054E+12,876,photo_gallery,200,OK,JMI Group 1-1,text,TRUE,,52990,135,5,5,http://www.jmigroup-bd.com/photo_gallery/,299,0,0
+1.70054E+12,944,photo_gallery,200,OK,JMI Group 1-8,text,TRUE,,52990,135,5,5,http://www.jmigroup-bd.com/photo_gallery/,311,0,0
+1.70054E+12,525,our_mission,200,OK,JMI Group 1-15,text,TRUE,,29178,133,5,5,http://www.jmigroup-bd.com/our_mission/,273,0,0
+1.70054E+12,666,tvc_ovc,200,OK,JMI Group 1-1,text,TRUE,,29521,129,5,5,http://www.jmigroup-bd.com/tvc_ovc/,409,0,0
+1.70054E+12,1322,message_md,200,OK,JMI Group 1-4,text,TRUE,,31013,132,4,4,http://www.jmigroup-bd.com/message_md/,277,0,0
+1.70054E+12,1760,Home Page,200,OK,JMI Group 1-11,text,TRUE,,118037,121,4,4,http://www.jmigroup-bd.com/,348,0,0
+1.70054E+12,485,tvc_ovc,200,OK,JMI Group 1-8,text,TRUE,,29521,129,4,4,http://www.jmigroup-bd.com/tvc_ovc/,284,0,0
+1.70054E+12,483,key_person,200,OK,JMI Group 1-15,text,TRUE,,28840,132,3,3,http://www.jmigroup-bd.com/key_person/,271,0,0
+1.70054E+12,519,news_event,200,OK,JMI Group 1-15,text,TRUE,,42939,132,3,3,http://www.jmigroup-bd.com/news_event/,290,0,0
+1.70054E+12,875,message_ch,200,OK,JMI Group 1-4,text,TRUE,,29550,132,3,3,http://www.jmigroup-bd.com/message_ch/,261,0,0
+1.70054E+12,1058,message_md,200,OK,JMI Group 1-11,text,TRUE,,31013,132,3,3,http://www.jmigroup-bd.com/message_md/,260,0,0
+1.70054E+12,491,video,200,OK,JMI Group 1-15,text,TRUE,,31591,127,3,3,http://www.jmigroup-bd.com/video/,331,0,0
+1.70054E+12,785,corporate_profile,200,OK,JMI Group 1-4,text,TRUE,,42941,139,3,3,http://www.jmigroup-bd.com/corporate_profile/,266,0,0
+1.70054E+12,498,photo_gallery,200,OK,JMI Group 1-15,text,TRUE,,52990,135,3,3,http://www.jmigroup-bd.com/photo_gallery/,249,0,0
+1.70054E+12,820,message_ch,200,OK,JMI Group 1-11,text,TRUE,,29542,132,3,3,http://www.jmigroup-bd.com/message_ch/,378,0,0
+1.70054E+12,356,our_mission,200,OK,JMI Group 1-4,text,TRUE,,29178,133,3,3,http://www.jmigroup-bd.com/our_mission/,239,0,0
+1.70054E+12,352,tvc_ovc,200,OK,JMI Group 1-15,text,TRUE,,29521,129,3,3,http://www.jmigroup-bd.com/tvc_ovc/,212,0,0
+1.70054E+12,435,key_person,200,OK,JMI Group 1-4,text,TRUE,,28840,132,2,2,http://www.jmigroup-bd.com/key_person/,243,0,0
+1.70054E+12,532,corporate_profile,200,OK,JMI Group 1-11,text,TRUE,,42941,139,2,2,http://www.jmigroup-bd.com/corporate_profile/,215,0,0
+1.70054E+12,324,our_mission,200,OK,JMI Group 1-11,text,TRUE,,29178,133,2,2,http://www.jmigroup-bd.com/our_mission/,242,0,0
+1.70054E+12,630,news_event,200,OK,JMI Group 1-4,text,TRUE,,42939,132,2,2,http://www.jmigroup-bd.com/news_event/,184,0,0
+1.70054E+12,309,key_person,200,OK,JMI Group 1-11,text,TRUE,,28840,132,2,2,http://www.jmigroup-bd.com/key_person/,170,0,0
+1.70054E+12,391,news_event,200,OK,JMI Group 1-11,text,TRUE,,42939,132,2,2,http://www.jmigroup-bd.com/news_event/,209,0,0
+1.70054E+12,472,video,200,OK,JMI Group 1-4,text,TRUE,,31591,127,2,2,http://www.jmigroup-bd.com/video/,222,0,0
+1.70054E+12,319,video,200,OK,JMI Group 1-11,text,TRUE,,31591,127,2,2,http://www.jmigroup-bd.com/video/,215,0,0
+1.70054E+12,748,photo_gallery,200,OK,JMI Group 1-4,text,TRUE,,52990,135,2,2,http://www.jmigroup-bd.com/photo_gallery/,256,0,0
+1.70054E+12,515,photo_gallery,200,OK,JMI Group 1-11,text,TRUE,,52990,135,2,2,http://www.jmigroup-bd.com/photo_gallery/,295,0,0
+1.70054E+12,316,tvc_ovc,200,OK,JMI Group 1-11,text,TRUE,,29521,129,2,2,http://www.jmigroup-bd.com/tvc_ovc/,211,0,0
+1.70054E+12,421,tvc_ovc,200,OK,JMI Group 1-4,text,TRUE,,29521,129,1,1,http://www.jmigroup-bd.com/tvc_ovc/,278,0,0
